@@ -12,7 +12,7 @@ Convido também a conhecerem meu perfil no LinkedIN - "[Lucas Duarte Virtuoso](w
 
 <p align="left">
     </a>
-    <a href="hhttps://github.com/LucasDVirtuoso?tab=repositories">
+    <a href="https://github.com/LucasDVirtuoso?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -23,7 +23,7 @@ Convido também a conhecerem meu perfil no LinkedIN - "[Lucas Duarte Virtuoso](w
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasDVirtuoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
